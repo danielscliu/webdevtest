@@ -5,10 +5,10 @@
   }
   
   .container {
-    height: 90vh;
+    height: 92vh;
+    
   }
 
   li:hover {
     cursor: pointer;
   }
-  

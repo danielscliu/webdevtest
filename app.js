@@ -32,3 +32,5 @@ function addMovie() {
     // Step 6: Call the clearInput function to clear the input field
     clearInput();
 }
+
+//'test commit new branch plz work I'm tired// 
